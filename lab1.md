@@ -9,7 +9,7 @@
 
 ## Основные функции c объяснениями
 
-### QR разложение
+#### QR разложение
 ```python
 def QR_Decomposition(A):
     n, m = A.shape
